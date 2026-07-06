@@ -1,4 +1,4 @@
-# 
+# Trade futures, forex, and stocks with NinjaTrader: Advanced charting, market analysis, and automated trading.
 
 
 
